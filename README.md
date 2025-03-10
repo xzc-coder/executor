@@ -548,7 +548,7 @@ schedule.ScheduleWithFixedDelay(func() {
 
 ## 原理
 
-该项目参考Java协程池 **ThreadPoolExecutor** 实现
+该项目参考Java线程池 **ThreadPoolExecutor** 实现
 
 运行流程如下图：
 
