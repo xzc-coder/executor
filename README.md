@@ -21,6 +21,10 @@ executor 项目是基于Go的goroutine及Go的并发编程实现的协程复用�
 
 
 ## 快速开始
+### 导入
+```
+go get github.com/xzc-coder/executor
+```
 
 ### 普通协程池
 
