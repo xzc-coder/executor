@@ -1,4 +1,4 @@
-<img width="480" alt="1741615245099" src="https://github.com/user-attachments/assets/85246dc1-1c9e-4aa8-8d02-873f9c799078" /># executor
+# executor
 
 ## 介绍
 
