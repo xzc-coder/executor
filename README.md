@@ -81,7 +81,7 @@ func main() {
 		fmt.Println(time.Now())
 	}, 100*time.Millisecond, 100*time.Millisecond)
 
-	//添加固定速率任务，延迟100毫秒执行，等任务执行完后，每隔100毫秒执行一次
+	//添加固定延迟任务，延迟100毫秒执行，等任务执行完后，每隔100毫秒执行一次
 	schedule.ScheduleWithFixedDelay(func() {
 		fmt.Println(time.Now())
 	}, 100*time.Millisecond, 100*time.Millisecond)
